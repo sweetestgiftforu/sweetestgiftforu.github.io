@@ -1,1 +1,2 @@
-# sweetestgiftforu.github.io
+# singleton
+ so  坚持！
